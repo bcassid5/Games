@@ -1,0 +1,17 @@
+/Users/bencassidy/Documents/bcassid5_RockPaperScissor/Temp/bin/Debug/UnityEngine.dll
+/Users/bencassidy/Documents/bcassid5_RockPaperScissor/Temp/bin/Debug/UnityEditor.dll
+/Users/bencassidy/Documents/bcassid5_RockPaperScissor/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/bencassidy/Documents/bcassid5_RockPaperScissor/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/bencassidy/Documents/bcassid5_RockPaperScissor/Temp/bin/Debug/Mono.Cecil.dll
+/Users/bencassidy/Documents/bcassid5_RockPaperScissor/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/bencassidy/Documents/bcassid5_RockPaperScissor/Temp/bin/Debug/Unity.DataContract.dll
+/Users/bencassidy/Documents/bcassid5_RockPaperScissor/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/bencassidy/Documents/bcassid5_RockPaperScissor/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/bencassidy/Documents/bcassid5_RockPaperScissor/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/bencassidy/Documents/bcassid5_RockPaperScissor/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/bencassidy/Documents/bcassid5_RockPaperScissor/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/bencassidy/Documents/bcassid5_RockPaperScissor/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/bencassidy/Documents/bcassid5_RockPaperScissor/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/bencassidy/Documents/bcassid5_RockPaperScissor/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/bencassidy/Documents/bcassid5_RockPaperScissor/obj/Debug/Assembly-CSharp.dll
+/Users/bencassidy/Documents/bcassid5_RockPaperScissor/obj/Debug/Assembly-CSharp.dll.mdb

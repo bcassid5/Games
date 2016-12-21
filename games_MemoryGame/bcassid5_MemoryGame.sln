@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{A0075AE9-CDB6-CFD8-506C-258F314F740F}") = "bcassid5_MemoryGame", "Assembly-CSharp.csproj", "{D743910C-AE79-659E-BCE6-1B2E7B285C0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D743910C-AE79-659E-BCE6-1B2E7B285C0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D743910C-AE79-659E-BCE6-1B2E7B285C0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D743910C-AE79-659E-BCE6-1B2E7B285C0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D743910C-AE79-659E-BCE6-1B2E7B285C0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

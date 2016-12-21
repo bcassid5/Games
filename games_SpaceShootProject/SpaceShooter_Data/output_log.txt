@@ -1,0 +1,102 @@
+Initialize engine version: 5.3.1f1 (cc9cbbcc37b4)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 5500 (ID=0x1616)
+    Vendor:   Intel
+    VRAM:     128 MB
+Default GameObject Tag: Player already registered
+ 
+(Filename:  Line: 88)
+
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\benca\Documents\bcassid5_SpaceShootProject\SpaceShooter_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\benca\Documents\bcassid5_SpaceShootProject\SpaceShooter_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\benca\Documents\bcassid5_SpaceShootProject\SpaceShooter_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\benca\Documents\bcassid5_SpaceShootProject\SpaceShooter_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\benca\Documents\bcassid5_SpaceShootProject\SpaceShooter_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\benca\Documents\bcassid5_SpaceShootProject\SpaceShooter_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\benca\Documents\bcassid5_SpaceShootProject\SpaceShooter_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\benca\Documents\bcassid5_SpaceShootProject\SpaceShooter_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.344 seconds
+Platform assembly: C:\Users\benca\Documents\bcassid5_SpaceShootProject\SpaceShooter_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\benca\Documents\bcassid5_SpaceShootProject\SpaceShooter_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.922333 ms
+NullReferenceException: Object reference not set to an instance of an object
+  at Main.GetWeaponDefinition (WeaponType wt) [0x00000] in <filename unknown>:0 
+  at Weapon.SetType (WeaponType wt) [0x00000] in <filename unknown>:0 
+  at Weapon.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Main.GetWeaponDefinition (WeaponType wt) [0x00000] in <filename unknown>:0 
+  at Weapon.SetType (WeaponType wt) [0x00000] in <filename unknown>:0 
+  at Weapon.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Main.GetWeaponDefinition (WeaponType wt) [0x00000] in <filename unknown>:0 
+  at Weapon.SetType (WeaponType wt) [0x00000] in <filename unknown>:0 
+  at Weapon.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Main.GetWeaponDefinition (WeaponType wt) [0x00000] in <filename unknown>:0 
+  at Weapon.SetType (WeaponType wt) [0x00000] in <filename unknown>:0 
+  at Weapon.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Main.GetWeaponDefinition (WeaponType wt) [0x00000] in <filename unknown>:0 
+  at Weapon.SetType (WeaponType wt) [0x00000] in <filename unknown>:0 
+  at Weapon.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 35d0 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.210936 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 487.
+Total: 0.296714 ms (FindLiveObjects: 0.041521 ms CreateObjectMapping: 0.034056 ms MarkObjects: 0.208539 ms  DeleteObjects: 0.011663 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.372536 ms
+
+Unloading 3031 unused Assets to reduce memory usage. Loaded Objects now: 316.
+Total: 16.133598 ms (FindLiveObjects: 0.288783 ms CreateObjectMapping: 0.580831 ms MarkObjects: 0.541643 ms  DeleteObjects: 14.720475 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.428742 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 406.
+Total: 0.306511 ms (FindLiveObjects: 0.036389 ms CreateObjectMapping: 0.029858 ms MarkObjects: 0.227667 ms  DeleteObjects: 0.012129 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.724523 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 487.
+Total: 0.291582 ms (FindLiveObjects: 0.031257 ms CreateObjectMapping: 0.021926 ms MarkObjects: 0.214138 ms  DeleteObjects: 0.023793 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.229311 ms
+
+Unloading 112 unused Assets to reduce memory usage. Loaded Objects now: 316.
+Total: 0.788905 ms (FindLiveObjects: 0.050851 ms CreateObjectMapping: 0.063914 ms MarkObjects: 0.515051 ms  DeleteObjects: 0.157221 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.427343 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 406.
+Total: 0.365760 ms (FindLiveObjects: 0.043853 ms CreateObjectMapping: 0.030791 ms MarkObjects: 0.274320 ms  DeleteObjects: 0.015862 ms)
+
